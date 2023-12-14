@@ -1,12 +1,12 @@
-# Enveloppe_Convexe
-Création d'une enveloppe convexe et étude de celle-ci.
+# Convex_Hull
+Creation of a convex hull and study of it.
 
-# Le programme se divise en 3 partie :
+# The program is divided into 3 parts:
 
--La première partie concerne la création du nuage de point et la création d'un polygone associé nottamment grâce à un algorithme de tri par ordre trigonométrique.
+- The first part concerns the creation of the point cloud and the creation of an associated polygon, notably through an algorithm for sorting in trigonometric order.
 
--La deuxième partie contient un algorithme de création d'enveloppe convexe d'une liste et use de la première partie pour créer l'enveloppe convexe du nuage de point  
+- The second part contains an algorithm for creating the convex hull of a list and uses the first part to create the convex hull of the point cloud.
 
--La troisième partie contient un algorithme qui détermine le diamètre de l'enveloppe convexe trouvé précédemment.
+- The third part contains an algorithm that determines the diameter of the previously found convex hull.
 
-En esperant que le programme vous plaisent
+Hoping you enjoy the program
